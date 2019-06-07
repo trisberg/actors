@@ -1,3 +1,3 @@
 # actors
 
-A Spring Boot sample JAP repository app for cloud deployments
+A Spring Boot sample JPA repository app for cloud deployments
